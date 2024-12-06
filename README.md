@@ -1,0 +1,1 @@
+pip install pandas pytest openai tiktoken msal rich requests chevron llama-index llama-index-embeddings-huggingface llama-index-readers-web pypandoc docx markdown jupyter pydantic python-dotenv vpython
